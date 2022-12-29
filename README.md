@@ -1,6 +1,6 @@
 # Complete-Blender-Creator-Learn-3D-Modelling-for-Beginners Version 3.0.1
-<span style="color:red">This repo has been archived.</span>
-Are you looking for the updated [Version 3.2](https://github.com/HCSimpson/Complete-Blender-Creator-Learn-3D-Modelling-for-Beginners-Version-3.2)?
+
+This repo has been archived. Are you looking for the updated [Version 3.2](https://github.com/HCSimpson/Complete-Blender-Creator-Learn-3D-Modelling-for-Beginners-Version-3.2)?
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 <br>
