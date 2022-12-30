@@ -5,10 +5,10 @@ This repo has been archived. Are you looking for the updated [Version 3.2](https
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 <br>
 This repository contains:
-1. [Well-Cycles.png](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Cycles.jpg): rendering done in Cycles.
-2. [Well-Eevee.png](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Eevee.jpg): rendering done in Eevee.
-3. [MayanTemple-Cycles.png](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Eevee.jpg): rendering done in Cycles.
-4. [MayanTemple-Eevee.png](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Eevee.jpg): rendering done in Eevee.
+1. [Well-Cycles.png](https://github.com/HCSimpson/Complete-Blender-Creator-Learn-3D-Modelling-for-Beginners-Version-3.0.1/blob/main/Section%201%20Getting%20Going%20In%20Blender/Well-Cycles.png): rendering done in Cycles.
+2. [Well-Eevee.png](https://github.com/HCSimpson/Complete-Blender-Creator-Learn-3D-Modelling-for-Beginners-Version-3.0.1/blob/main/Section%201%20Getting%20Going%20In%20Blender/Well-Eevee.png): rendering done in Eevee.
+3. [MayanTemple-Cycles.png](https://github.com/HCSimpson/Complete-Blender-Creator-Learn-3D-Modelling-for-Beginners-Version-3.0.1/blob/main/Section%202%20Your%20First%203D%20Model%20In%20Blender/MayanTemple-Cycles.png): rendering done in Cycles.
+4. [MayanTemple-Eevee.png](https://github.com/HCSimpson/Complete-Blender-Creator-Learn-3D-Modelling-for-Beginners-Version-3.0.1/blob/main/Section%202%20Your%20First%203D%20Model%20In%20Blender/MayanTemple-Eevee.png): rendering done in Eevee.
 
 ## Table of Contents
 * [Background](#a-name"background"abackground)
