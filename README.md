@@ -6,9 +6,9 @@ This repo has been archived. Are you looking for the updated [Version 3.2](https
 <br>
 This repository contains:
 1. [Well-Cycles.png](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Cycles.jpg): rendering done in Cycles.
-2. [Well-Evee.png](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Evee.jpg): rendering done in Evee.
-3. [MayanTemple-Cycles.png](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Evee.jpg): rendering done in Cycles.
-4. [MayanTemple-Evee.png](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Evee.jpg): rendering done in Evee.
+2. [Well-Eevee.png](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Eevee.jpg): rendering done in Eevee.
+3. [MayanTemple-Cycles.png](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Eevee.jpg): rendering done in Cycles.
+4. [MayanTemple-Eevee.png](https://github.com/HCSimpson/Blender-3.0-Beginner-Tutorial-Donut/blob/main/Donut-Eevee.jpg): rendering done in Eevee.
 
 ## Table of Contents
 * [Background](#a-name"background"abackground)
